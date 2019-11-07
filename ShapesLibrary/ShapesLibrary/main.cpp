@@ -31,7 +31,6 @@ int main() {
 	dot dotShape(sf::Vector2f(1300, 100), sf::Vector2f(1299, 101), sf::Vector2f(1301,101), sf::Vector2f(1300,100));
 
 	while (window.isOpen()) {
-		//window.clear();
 		//handle events
 
 		window.display();
