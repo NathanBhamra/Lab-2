@@ -1,5 +1,8 @@
 /*!
 \file square.cpp
+*
+* Comments are the same for each shape, check the line shape for the comments.
+* The only difference is there are more points to form the shape.
 */
 
 #include "square.h"
