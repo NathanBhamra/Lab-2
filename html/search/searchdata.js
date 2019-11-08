@@ -3,7 +3,7 @@ var indexSectionsWithContent =
   0: "dlmprst",
   1: "dlprst",
   2: "dlmprst",
-  3: "dls",
+  3: "dlms",
   4: "p",
   5: "s"
 };
