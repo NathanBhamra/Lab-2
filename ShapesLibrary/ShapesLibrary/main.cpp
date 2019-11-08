@@ -1,4 +1,5 @@
-/*! \file main.cpp
+/*! 
+\file main.cpp
 * \brief Main file for the Application
 *
 * Contains the draw functions which links to the header and cpp files of each shape. Shape can be created at any size
